@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">My name is Mercedes La Infierno and I'm a Future FullStack Developer from Atl, GA p>
+<p align="left">My name is Mercedes La Infierno and I'm a Future FullStack Developer from Atl, GA </p> 
 
 ###
 
