@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"><br>📚 I'm currently studying for the CAMP Certification <br>🎯 Goals: Become a Technical Project Manager utilizing some basic Web Development knowledge<br>🎲 Fun fact: I'm a model and fitness enthusiast!</p>
 
 ###
 
